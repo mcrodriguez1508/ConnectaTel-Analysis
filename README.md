@@ -2,8 +2,8 @@
 Data-driven user segmentation and behavior analysis for ConnectaTel: Optimizing telecommunications service plans.
 
 📞 Customer Behavior Analysis: ConnectaTel
-🎯 Project Objective
 
+🎯 Project Objective
 The main objective of this project is to conduct an exploratory and statistical analysis of ConnectaTel customers, a telecommunications company. By processing usage data (calls and messages) and demographic profiles, the project aims to identify consumption patterns, detect outliers, and propose segmentation strategies to enhance the company's commercial offerings.
 
 📊 Datasets Used
